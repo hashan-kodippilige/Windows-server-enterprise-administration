@@ -1,4 +1,4 @@
-# Enterprise Active Directory Administration Lab
+# Enterprise Windows Server infrastructure project featuring Active Directory, DNS, DHCP, Group Policy, File & Print Services, Storage Spaces, Backup & Recovery, and enterprise network architecture.
 
 ## Overview
 
