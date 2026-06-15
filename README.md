@@ -204,6 +204,11 @@ The lab simulates the **ACME Corporation** corporate infrastructure, supporting 
 
 ## 🏗️ Network Architecture
 
+The following diagram illustrates the enterprise Active Directory environment deployed in this project.
+
+<img width="1448" height="1086" alt="Diagram" src="https://github.com/user-attachments/assets/5a9705dd-efcf-4e48-971b-48ccd49f425a" />
+
+
 | Server | Role |
 |--------|------|
 | AcmePDC01 | Primary Domain Controller |
