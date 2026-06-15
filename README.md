@@ -1,4 +1,4 @@
-# 🖥️ Enterprise Windows Server Administration
+# Enterprise Windows Server Administration
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%20Server%202019-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -7,11 +7,11 @@
   <img src="https://img.shields.io/badge/Domain-Enterprise%20IT-4B4B4B?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-> 🏢 Enterprise-grade Windows Server lab simulating a real corporate IT environment with Active Directory, DNS, DHCP, Group Policy, File & Print Services, Storage Spaces, and Backup & Recovery.
+> Enterprise-grade Windows Server lab simulating a real corporate IT environment with Active Directory, DNS, DHCP, Group Policy, File & Print Services, Storage Spaces, and Backup & Recovery.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project demonstrates the full lifecycle design, deployment, administration, and security hardening of a **Windows Server 2019 enterprise environment** using VMware Workstation.
 
@@ -19,7 +19,7 @@ The lab simulates the **ACME Corporation** corporate infrastructure, supporting 
 
 ---
 
-## 🏗️ Network Architecture
+## Network Architecture
 
 The following diagram illustrates the enterprise Active Directory environment deployed in this project.
 
