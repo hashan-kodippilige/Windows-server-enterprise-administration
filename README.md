@@ -38,38 +38,38 @@ The following diagram illustrates the enterprise Active Directory environment de
 
 ---
 
-## 🛠️ Technologies Implemented
+## Technologies Implemented
 
-### 🔐 Identity & Access Management
+### Identity & Access Management
 - Active Directory Domain Services (AD DS)
 - Domain Controller promotion and configuration
 - Organizational Unit (OU) design and hierarchy
 - User account and security group management
 - Distribution groups and home directories
 
-### 🌐 Network Services
+### Network Services
 - **DHCP** — Scope creation, authorization, reservations, dynamic IP assignment
 - **DNS** — Forward/reverse lookup zones, host records, CNAME, MX records, name resolution testing
 
-### 📂 File & Print Services
+### File & Print Services
 - Shared folder creation with NTFS permissions
 - Department-level file shares
 - Role-based access control (RBAC)
 - User home directory automation
 - Network printer deployment and security groups
 
-### 💾 Storage Management
+### Storage Management
 - Windows Storage Spaces configuration
 - Virtual disk creation
 - RAID implementation and volume management
 
-### 🔄 Backup & Disaster Recovery
+### Backup & Disaster Recovery
 - Windows Server Backup configuration
 - Scheduled backup jobs
 - File recovery testing
 - RAID failure simulation and recovery
 
-### 🛡️ Group Policy Administration
+### Group Policy Administration
 - Password complexity and expiration policies
 - Account lockout policies
 - Kerberos policy configuration
@@ -80,7 +80,7 @@ The following diagram illustrates the enterprise Active Directory environment de
 
 ---
 
-## 📋 Lab Structure
+## Lab Structure
 
 | Lab | Topic |
 |-----|-------|
@@ -95,30 +95,30 @@ The following diagram illustrates the enterprise Active Directory environment de
 
 ---
 
-## 🔑 Key Accomplishments
+## Key Accomplishments
 
-- ✅ Promoted Windows Server to Primary and Secondary Domain Controllers
-- ✅ Designed and implemented a multi-OU Active Directory hierarchy
-- ✅ Configured DNS with forward/reverse lookup zones and all record types
-- ✅ Deployed DHCP with scopes, reservations, and failover
-- ✅ Implemented departmental file shares with role-based NTFS permissions
-- ✅ Configured Windows Server Backup and tested full disaster recovery
-- ✅ Applied security-focused Group Policies across all OUs
-- ✅ Renamed and disabled default local accounts to reduce attack surface
-- ✅ Simulated RAID storage failure and successfully restored data
+- Promoted Windows Server to Primary and Secondary Domain Controllers
+- Designed and implemented a multi-OU Active Directory hierarchy
+- Configured DNS with forward/reverse lookup zones and all record types
+- Deployed DHCP with scopes, reservations, and failover
+- Implemented departmental file shares with role-based NTFS permissions
+- Configured Windows Server Backup and tested full disaster recovery
+- Applied security-focused Group Policies across all OUs
+- Renamed and disabled default local accounts to reduce attack surface
+- Simulated RAID storage failure and successfully restored data
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 `Windows Server Administration` `Active Directory` `Group Policy` `DNS` `DHCP` `Identity & Access Management` `File Server Administration` `Storage Management` `Backup & Recovery` `Security Hardening` `VMware` `Enterprise IT Operations`
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ```
-📦 Windows-server-enterprise-administration
+Windows-server-enterprise-administration
 ├── 📄 README.md
 ├── 📋 Acme Lab 1-KHS.pdf    ← AD Setup & Domain Controller
 ├── 📋 Acme Lab 2-KHS.pdf    ← DNS & DHCP
@@ -132,7 +132,7 @@ The following diagram illustrates the enterprise Active Directory environment de
 
 ---
 
-## 💡 Real-World Relevance
+## Real-World Relevance
 
 This lab directly maps to enterprise IT and SOC environments where:
 - **Active Directory** is the backbone of identity and access management
@@ -142,13 +142,13 @@ This lab directly maps to enterprise IT and SOC environments where:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This lab was built in a controlled VMware virtualization environment for educational and academic purposes only. All domain names, user accounts, and organizational data are fictitious.
 
 ---
 
-## 👤 Author
+## Author
 
 **Hashan Kodippilige**  
 M.S. Cybersecurity — Minnesota State University Moorhead  
